@@ -9,4 +9,4 @@ Remarks:
 - Max and min humidity values were tested in a dry and wet environment respectively, measures will vary between different sensors.
 
 
-PS: The code of the .ino files is mistakenly identifies as C++
+PS: The code of the .ino files is mistakenly identified as C++
